@@ -1,2 +1,9 @@
 # EDA-Project-Netflix
-Making EDA by file: "netflix_titles.csv"
+In this repository I did exploratory data analysis of Netflix titles
+
+Github link to repository: https://github.com/MadoDoctor/EDA-Project-Netflix
+
+# Installation
+There are used libraries like NumPy, Pandas, Matplotlib, Seaborn, CSV
+
+# Updating README.md
